@@ -105,5 +105,5 @@ mvn test
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-This project was developed as part of a software engineering course by [Your Name/Your Team Name].
+This project was developed as part of a software engineering course by [Pritkumar Vasudevbhai Raiyani].
 
